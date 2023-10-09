@@ -9,7 +9,7 @@ body {
 }
 
 h1{
-    color: white;
+    color: rgb(231, 109, 255);
     font-family:'Kolker Brush', cursive;
     font-size: 120px;
     position: absolute;
@@ -19,7 +19,7 @@ h1{
 }
 
 p1{
-    color:yellow;
+    color:rgb(231, 109, 255);
     font-family: 'League Gothic', sans-serif;
     font-size: 42px;
     position: absolute;
@@ -29,7 +29,7 @@ p1{
 
 a{
     display: flexbox;
-    color: #ffffff;
+    color: #d465ff;
     font-family: 'League Gothic', sans-serif;
     font-size: 20px;
     position: relative;
@@ -45,7 +45,7 @@ a{
 
 .navigation-links a {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 108, 231);
     font-size: 32px;
     font-weight: bold;
     padding: 50px; /* Adjust the padding for each link */
@@ -54,7 +54,7 @@ a{
 }
 
 .navigation-links a:hover {
-    color: yellow; /* Change the text color on hover */
+    color: rgb(231, 109, 255); /* Change the text color on hover */
 }
 
 #rectangleurl{
@@ -86,7 +86,7 @@ a{
 #rectangle2{
     width:1620px;
     height:30px;
-    background-color: rgba(234, 99, 220, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
     top: 271px;
     left: -100px;
@@ -96,7 +96,7 @@ a{
 #rectangle3{
     width:1620px;
     height:30px;
-    background-color: rgba(234, 99, 220, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
     top: 737px;
     left: -100px;
@@ -106,7 +106,7 @@ a{
 #rectangle40{
     width:130px;
     height:65px;
-    border: 1px solid #ffffff;
+    border: 1px solid #e251ff;
     background-color: black;
     position: absolute;
     top: 610px;
@@ -115,7 +115,7 @@ a{
 }
 
 p{
-    color: yellow;
+    color: rgb(231, 109, 255);
     font-family: 'League Gothic', sans-serif;
     font-size: 35px;
     text-align: left;
@@ -124,7 +124,7 @@ p{
 }
 
 p5{
-    color: white;
+    color: rgb(249, 107, 253);
     font-family: 'League Gothic', sans-serif;
     font-size: 28px;
     top: 626px;
@@ -134,7 +134,7 @@ p5{
 }
 
 p2{
-    color:#ffffff;
+    color:#ff6cdd;
     font-family: 'League Gothic', sans-serif;
     font-size: 70px;
     height: 100%;
@@ -157,7 +157,7 @@ p2{
 }
 
 p4{
-    color: yellow;
+    color: rgb(231, 109, 255);
     font-family: 'League Gothic', sans-serif;
     font-size: 28px;
     text-align: center;
@@ -170,7 +170,7 @@ p4{
 #rectangle41{
     width:100px;
     height:45px;
-    border: 1px solid #ffffff;
+    border: 1px solid #fa76ff;
     background-color: black;
     position: absolute;
     bottom: 225px;
@@ -179,7 +179,7 @@ p4{
 }
 
 p6{
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: 'League Gothic', sans-serif;
     font-size: 22px;
     bottom: 235px;
@@ -199,7 +199,7 @@ p6{
 }
 
 p3{
-    color:#ffffff;
+    color:#ff77ff;
     font-family: 'League Gothic', sans-serif;
     font-size: 40px;
     height: 100%;
@@ -214,7 +214,7 @@ p3{
 #rectangle20{
     width:1620px;
     height: 150px;
-    background-color: rgba(234, 99, 220, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     position: absolute;
     bottom:-200px;
     left: -100px;
@@ -225,7 +225,7 @@ p3{
     width:1000px;
     height: 50px;
     border: 10px solid black;
-    background-color: white;
+    background-color: rgb(240, 105, 255);
     position: absolute;
     bottom: -10px;
     left: 250px;
@@ -243,7 +243,7 @@ p7{
 }
 
 .footer {
-    color: #fff;
+    color: #ff7dee;
     font-family: 'League Gothic', sans-serif;
     padding: 5px;
     position: absolute;
@@ -269,7 +269,7 @@ p7{
 }
 
 p8{
-    color: white;
+    color: rgb(255, 110, 245);
     font-family: 'League Gothic', sans-serif;
     font-size: 18px;
     width: 600px; /* Adjust the width as needed */
@@ -307,7 +307,7 @@ p8{
     }
 
     p1{
-        color:yellow;
+        color:rgb(255, 255, 255);
         font-family: 'League Gothic', sans-serif;
         font-size: 20px;
         position: absolute;
@@ -375,7 +375,7 @@ p8{
     #rectangle2{
         width:517px;
         height:20px;
-        background-color: rgba(234, 99, 220, 0.5);
+        background-color: rgba(0, 0, 0, 0.5);
         position: absolute;
         top: 180px;
         left: -100px;
@@ -385,7 +385,7 @@ p8{
     #rectangle3{
         width:517px;
         height:20px;
-        background-color: rgba(234, 99, 220, 0.5);
+        background-color: rgba(0, 0, 0, 0.5);
         position: absolute;
         top: 760px;
         left: -100px;
@@ -518,7 +518,7 @@ p8{
     #rectangle20{
         width:517px;
         height: 500px;
-        background-color: rgba(234, 99, 220, 0.7);
+        background-color: rgba(0, 0, 0, 0.7);
         position: absolute;
         bottom:-520px;
         left: -100px;
@@ -683,7 +683,7 @@ p8{
     #rectangle2{
         width:925px;
         height:20px;
-        background-color: rgba(234, 99, 220, 0.5);
+        background-color: rgba(0, 0, 0, 0.5);
         position: absolute;
         top: 180px;
         left: -100px;
@@ -693,7 +693,7 @@ p8{
     #rectangle3{
         width:925px;
         height:20px;
-        background-color: rgba(234, 99, 220, 0.5);
+        background-color: rgba(0, 0, 0, 0.5);
         position: absolute;
         top: 890px;
         left: -100px;
@@ -824,7 +824,7 @@ p8{
     #rectangle20{
         width:930px;
         height: 300px;
-        background-color: rgba(234, 99, 220, 0.7);
+        background-color: rgba(0, 0, 0, 0.7);
         position: absolute;
         bottom:-430px;
         left: -100px;
